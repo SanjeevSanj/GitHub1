@@ -15,5 +15,6 @@ public static void main(String[] args) {
  // Print out area.
  System.out.print("The area of a circle with radius "+radius);
  System.out.println(" is "+area);
+ System.out.println("Radius");
 }
 }
